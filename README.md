@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **siddarth8818@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nBZIV4IhYgc7YQxfZfRzSRWxdXQ-6QmV/view?usp=drive_link](https://drive.google.com/file/d/1nBZIV4IhYgc7YQxfZfRzSRWxdXQ-6QmV/view?usp=drive_link)
-
 - ⚡ Fun fact **I can capture good pictures**
 
 <h3 align="left">Connect with me:</h3>
