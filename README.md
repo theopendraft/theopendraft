@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Yadav</h1>
 <h3 align="center">A passionate technology enthusiast. learning development and ML</h3>
 
-<img align ="right" alt="coding" width="300" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
+<img align ="right" alt="coding" width="500" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theopendraft&label=Profile%20views&color=0e75b6&style=flat" alt="theopendraft" /> </p>
 
