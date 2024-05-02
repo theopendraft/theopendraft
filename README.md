@@ -1,5 +1,5 @@
 ![Logo](https://github.com/theopendraft/theopendraft/blob/main/Cover%20image.png)
-<h1 align="center">Hi 👋, I'm Pankaj Yadav</h1>
+<h2 align="center">Hi 👋, I'm Pankaj Yadav</h2>
 <h3 align="center">A passionate technology enthusiast. learning development and ML</h3>
 
 <img align ="right" alt="coding" width="300" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
